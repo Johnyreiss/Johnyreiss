@@ -27,11 +27,8 @@
 
   <img align="center" alt="johny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2da4fdcd0eb86603473c7ef154a87279.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
-
   ##
 
- 
 
 <div> 
 
