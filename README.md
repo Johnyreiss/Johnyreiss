@@ -5,9 +5,9 @@
 
   <a href="https://github.com/Johnyreiss">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnyreiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Johnyreiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnyreiss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnyreiss&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
@@ -28,6 +28,7 @@
   <img align="center" alt="johny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2da4fdcd0eb86603473c7ef154a87279.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+
   ##
 
  
